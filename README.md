@@ -6,7 +6,7 @@ This research gives a detailed overview for people thinking of moving to differe
 - **Cost of Living:** Breaks down the financial aspects of living in each state.
 - **Politics:** Gives information on which political party is in power.
 - **Demographics:** Looks at the religious makeup of the population and the vaccination policies.
-- **Climate:** Covers things like how much sunlight, snow, and rainto expect.
+- **Climate:** Covers things like how much sunlight, snow, and rain to expect.
 - **Quality of Life:** Considers things like outdoor activities, reproductive rights, and how happy people are in each state.
 
 ## Things we need to know
@@ -16,11 +16,11 @@ This research gives a detailed overview for people thinking of moving to differe
 	- even in those that have, implementation is left up to the states and coverage varies widely even among "liberal" states 
 		- more info on [state by state coverage](https://www.healthinsurance.org/medicaid/#)
 - walkscore [x]
-	- get the walk, transit, bike scores for each state [x]
+	- get the walk, transit, and bike scores for each state [x]
 	- calculate medians for each of those scores by state [x]
 	- calculate a [z-score](https://www.z-table.com/how-to-use-z-score-table.html) for median walk, transit, bike by state [x]
 		- helps understand how meaningful the different scores are compared to each other 
-	- walk, transit, bike scores were accessed using a few different links
+	- walk, transit, and bike scores were accessed using a few different links
 		- where I originally [found](https://www.reddit.com/r/fuckcars/comments/15cb7o1/i_mapped_out_each_states_largest_citys/?sort=old) the data
 		- where the data were [aggregated](https://docs.google.com/spreadsheets/d/1sYdLwQd2czaHUmygStG7L1XMdqRx2z8uuoX0eNPl8nc/edit#gid=0)
 		- original [source](https://www.walkscore.com/AL) for each state
