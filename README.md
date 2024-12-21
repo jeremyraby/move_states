@@ -60,7 +60,9 @@ This research gives a detailed overview for people thinking of moving to differe
 	- median [rent](https://worldpopulationreview.com/state-rankings/average-rent-by-state) in state [x] 
 	- big mac [index](https://worldpopulationreview.com/state-rankings/big-mac-index-by-state) [x] 
 		- This is a decent indicator of [consumer purchasing power](https://www.investopedia.com/ask/answers/09/big-mac-index.asp) and can be used to make comparisons between nations (or states)
-	- has [relocation incentive package](https://www.makemymove.com/) thing [x] 
+	- median [utility costs](https://www.move.org/utility-bills-101/#Methodology)
+ 		- looks at costs for electricity, sewer, natural gas, water, trash services, and internet
+  	- has [relocation incentive package](https://www.makemymove.com/) thing [x] 
 		- not a primary reason to move to a particular state, but could help settle ties
 	- Average [healthcare cost](https://www.kff.org/other/state-indicator/health-spending-per-capita/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D) per capita [x]
 	- Effective local [tax rate](https://worldpopulationreview.com/state-rankings/highest-taxed-states) [x]
